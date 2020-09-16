@@ -8,7 +8,7 @@ An application used to assist travelers by displaying weather conditions and for
 
 A web browser such as Google Chrome, Internet Explorer or Firefox is needed to run the application.
 
-The application can be accessed via the following link: https://aguerra1508.github.io/Homework/06-Homework/index.html
+The application can be accessed via the following link: https://aguerra1508.github.io/06-Homework-Weather-Dashboard/
 
 ## Usage 
 
@@ -37,11 +37,10 @@ Mozilla MDN Web Docs JavaScript - https://developer.mozilla.org/en-US/docs/Web/J
 N/A
 
 ## Badges
-![Git Hub Languages](https://img.shields.io/github/languages/top/aguerra1508/aguerra1508.github.io)
 
-![W3c Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2FHomework%2F06-Homework%2Findex.html)
+![GitHub top language](https://img.shields.io/github/languages/top/aguerra1508/06-Homework-Weather-Dashboard)
 
-![GitHub](https://img.shields.io/github/license/aguerra1508/aguerra1508.github.io)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faguerra1508.github.io%2F06-Homework-Weather-Dashboard%2F)
 
 ## Contributing
 
